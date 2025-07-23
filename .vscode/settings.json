@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "vector": "cpp",
+    "*.tcc": "cpp",
+    "list": "cpp",
+    "sstream": "cpp",
+    "regex": "cpp",
+    "ratio": "cpp",
+    "system_error": "cpp",
+    "array": "cpp",
+    "functional": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
