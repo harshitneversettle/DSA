@@ -11,14 +11,8 @@ int main(){
    // example question
    //Take two integers a and b : a>b and find the remainder when a is divided by b 
 
-    int a = 5 ;
-    int b = 2 ;
-    cout << a % b <<endl;
-
-    
-
-
-
-
-    
+    float a = 5 ;
+    float b = 2 ;
+    cout << a / b <<endl;
+ 
 }

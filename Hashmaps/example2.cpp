@@ -19,6 +19,8 @@ int main(){
     while( i!=q ){
         char character ;
         cin >> character ;
+
+        // fetching 
         cout << hash[character - 'a'] << " " ;
         i++ ;
         

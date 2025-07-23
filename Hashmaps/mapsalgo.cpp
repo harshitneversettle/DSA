@@ -23,6 +23,8 @@ int main(){
     while( i!=q ){
         int number ;
         cin >> number ;
+
+        // fetching 
         cout << m[number] << " " ;
         i++ ;
         

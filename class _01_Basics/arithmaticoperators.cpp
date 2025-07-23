@@ -14,8 +14,9 @@ int main(){
     
      // increment and decrement
 
-     int x = 56;
-     cout<< ++x <<endl;   //pre increment isme phele ++ hoga fir value print hogi
+    int x = 56;
+    cout<< ++x <<endl;   //pre increment isme phele ++ hoga fir value print hogi
+    cout << x++ << endl << ++x << endl ;
 
     int y = 8;
     cout << y++ <<endl;  //post increment isme phele value print hoti hai
@@ -23,9 +24,6 @@ int main(){
     int d = 10;
     cout << ------d <<endl;
     
-
-
-
 }
 
 

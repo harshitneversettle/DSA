@@ -16,7 +16,7 @@ class Node{
         this-> next = NULL ;
     }
 };
-class Linkedlist{
+class Linkedlist{ 
     public:
     Node* head ;
     Node* tail ;
